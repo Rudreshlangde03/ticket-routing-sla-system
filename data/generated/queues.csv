@@ -1,0 +1,7 @@
+queue_id,queue_name,required_skill
+QUE-IDENTITY,Identity Queue,identity
+QUE-BILLING,Billing Queue,billing
+QUE-TECHNICAL,Technical Queue,technical
+QUE-NETWORK,Network Queue,network
+QUE-GENERAL,General Queue,general
+QUE-SECURITY,Security Queue,security

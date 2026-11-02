@@ -1,0 +1,1 @@
+# Standard-library-only data foundation. Streamlit/FastAPI may be added in later milestones.

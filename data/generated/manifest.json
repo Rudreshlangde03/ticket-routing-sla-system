@@ -1,0 +1,35 @@
+{
+  "seed": 20261022,
+  "parameters": {
+    "tickets": 30000,
+    "messages": 100000,
+    "agents": 100
+  },
+  "row_counts": {
+    "customers": 10000,
+    "channels": 3,
+    "tickets": 30000,
+    "messages": 100000,
+    "intents": 6,
+    "languages": 5,
+    "priority_rules": 6,
+    "agents": 100,
+    "skills": 6,
+    "queues": 6,
+    "assignment_events": 26781,
+    "sla_events": 30000,
+    "resolutions": 28864,
+    "agent_skills": 206,
+    "agent_languages": 203,
+    "ticket_events": 115263,
+    "ground_truth": 5
+  },
+  "provenance": "Synthetic data only; no external or personal data.",
+  "anomalies_injected": [
+    "agent_over_capacity",
+    "sla_calendar_mismatch",
+    "reopened_history_missing",
+    "transfer_loop",
+    "priority_safety_conflict"
+  ]
+}

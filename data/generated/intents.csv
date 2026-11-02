@@ -1,0 +1,7 @@
+intent_id,intent_name,required_skill
+INT-001,account_access,identity
+INT-002,billing,billing
+INT-003,technical_issue,technical
+INT-004,network_outage,network
+INT-005,general_query,general
+INT-006,security_incident,security

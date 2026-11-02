@@ -1,0 +1,7 @@
+priority_rule_id,intent_id,priority,first_response_minutes,resolution_minutes,safety_override
+PR-001,INT-001,normal,60,1440,0
+PR-002,INT-002,normal,60,1440,0
+PR-003,INT-003,normal,60,1440,0
+PR-004,INT-004,high,15,240,0
+PR-005,INT-005,low,240,2880,0
+PR-006,INT-006,critical,5,60,1

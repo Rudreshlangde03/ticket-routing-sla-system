@@ -1,0 +1,6 @@
+anomaly_id,ticket_id,issue_type,ground_truth,description
+ANOM-001,TKT-2026-000240,agent_over_capacity,anomaly,Agent receives an additional assignment beyond normal capacity.
+ANOM-002,TKT-2026-000002,sla_calendar_mismatch,anomaly,Email ticket SLA incorrectly uses a 24x7 calendar.
+ANOM-003,TKT-2026-000003,reopened_history_missing,anomaly,Reopened ticket has no earlier resolution record.
+ANOM-004,TKT-2026-000004,transfer_loop,anomaly,Ticket transfers repeatedly between two queues.
+ANOM-005,TKT-2026-000005,priority_safety_conflict,anomaly,Security incident has low priority instead of critical.

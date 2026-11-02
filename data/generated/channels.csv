@@ -1,0 +1,4 @@
+channel_id,channel_name,calendar_type
+CH-EMAIL,email,business_hours
+CH-CHAT,chat,24x7
+CH-PHONE,phone,24x7
